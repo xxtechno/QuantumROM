@@ -382,7 +382,6 @@ EXTRACT_FIRMWARE() {
         "$FIRM_DIR"/mcupm-verified.img.lz4 \
         "$FIRM_DIR"/pi_img-verified.img.lz4 \
         "$FIRM_DIR"/uh.bin.lz4 \
-        "$FIRM_DIR"/vendor_boot.img.lz4 \
         "$FIRM_DIR"/ssu.img.lz4
 
     # ---- LZ4 ----
